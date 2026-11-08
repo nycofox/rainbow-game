@@ -1,4 +1,4 @@
-# Rainbow Magic ✨
+# Rainbow Magic
 
 A tiny, colorful browser playground for young children. Move a giant rainbow star around a dark, starry sky and click to make confetti and glowing fireworks, complete with cheerful sound effects.
 
